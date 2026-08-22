@@ -1,3 +1,7 @@
 name = "sveltia-cms-auth"
 main = "src/index.js"
 compatibility_date = "2023-03-24"
+
+[vars]
+GITHUB_CLIENT_ID = "Ov23liahZnD01KoNcPVq"
+ALLOWED_DOMAINS = "amrv-astro.pages.dev, amrv.mx, *.amrv.mx"
